@@ -26,6 +26,8 @@ https://material.angular.io/
 # Utilitários
 https://angular.io/guide/quickstart
 
+# GIT
+git config --global credential.helper 'cache --timeout=3600'
 
 ## Extra
 ### Dentro da pasta angular-sample:
