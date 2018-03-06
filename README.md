@@ -25,3 +25,11 @@ https://material.angular.io/
 
 # Utilitários
 https://angular.io/guide/quickstart
+
+
+## Extra
+### Dentro da pasta angular-sample:
+      npm install
+      npm install -g http-server 
+### Vá até a pasta da sua aplicação angular e digite:
+      http-server -a localhost -p 8000
