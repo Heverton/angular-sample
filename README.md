@@ -26,7 +26,7 @@ https://material.angular.io/
 # Utilitários
 https://angular.io/guide/quickstart
 
-# GIT
+# GIT - Manter sessão diária 
 git config --global credential.helper 'cache --timeout=3600'
 
 ## Extra
